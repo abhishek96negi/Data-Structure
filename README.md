@@ -43,8 +43,10 @@
  
  
 > [Competitive Programming](https://github.com/abhishek96negi/Data-Structure/tree/main/Competitive%20Programming)
-  
-  1. [Generate All Binary Strings](https://github.com/abhishek96negi/Data-Structure/blob/main/Competitive%20Programming/Generate%20All%20Binary%20Strings.ipynb)
+    
+  1. [Anagram](https://github.com/abhishek96negi/Data-Structure/blob/master/Competitive%20Programming/Anagram.ipynb)
+ 
+  2. [Generate All Binary Strings](https://github.com/abhishek96negi/Data-Structure/blob/main/Competitive%20Programming/Generate%20All%20Binary%20Strings.ipynb)
   
  
 
