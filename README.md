@@ -1,8 +1,8 @@
 # Data-Structure
 
-> [Notes](https://github.com/abhishek96negi/Data-Structure/tree/main/Notes)
+> [Notes](https://github.com/abhishek96negi/Data-Structure/tree/master/Notes)
 
-  1. [Introduction](https://github.com/abhishek96negi/Data-Structure/blob/main/Notes/01-Introduction.pdf)
+  1. [Introduction](https://github.com/abhishek96negi/Data-Structure/blob/master/Notes/01-Introduction.pdf)
   
   2. [Asymptotic Notation](https://github.com/abhishek96negi/Data-Structure/blob/main/Notes/02-Asymptotic%20Notation.pdf)
   
