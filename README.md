@@ -42,7 +42,7 @@
   2. [Selection Sort](https://github.com/abhishek96negi/Data-Structure/blob/main/Sorting/Selection%20Sort.py)
  
  
-> [Competitive Programming](https://github.com/abhishek96negi/Data-Structure/tree/main/Competitive%20Programming)
+> [Competitive Programming](https://github.com/abhishek96negi/Data-Structure/tree/master/Competitive%20Programming)
     
   1. [Anagram](https://github.com/abhishek96negi/Data-Structure/blob/master/Competitive%20Programming/Anagram.ipynb)
  
