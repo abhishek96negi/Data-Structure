@@ -4,7 +4,7 @@
 
   1. [Introduction](https://github.com/abhishek96negi/Data-Structure/blob/master/Notes/01-Introduction.pdf)
   
-  2. [Asymptotic Notation](https://github.com/abhishek96negi/Data-Structure/blob/main/Notes/02-Asymptotic%20Notation.pdf)
+  2. [Asymptotic Notation](https://github.com/abhishek96negi/Data-Structure/blob/master/Notes/02-Asymptotic%20Notation.pdf)
   
   3. [Recurrence Relation](https://github.com/abhishek96negi/Data-Structure/blob/main/Notes/03-Recurrence%20Relation.pdf)
   
